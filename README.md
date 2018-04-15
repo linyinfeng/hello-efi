@@ -1,2 +1,3 @@
 # hello-efi
-Hello, world! in EFI Shell
+"Hello, world!" in EFI Shell.
+Working...
